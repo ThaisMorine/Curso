@@ -1,0 +1,4 @@
+RHT_VMS="bastion workstation"
+RHT_VMGRP="cluster"
+RHT_VMG_cluster=""
+
